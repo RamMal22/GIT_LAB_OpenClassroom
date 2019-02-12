@@ -9,3 +9,9 @@ Le deuxième commit effectue de légers modification sur les 3 fichiers:
 -Readme.txt contenant des informations
 -Hello.java contenant une simple classe java qui affiche un "HelloWorld",déclare et affiche une variable
 -Script_1.js un simple script Javascript qui déclare et affiche une variable
+
+
+
+Le troisième commit effectue de légers modification sur 2 fichiers:
+-Readme.txt contenant des informations
+-Hello.java déclare une variable de type String
